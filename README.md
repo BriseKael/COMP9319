@@ -86,4 +86,7 @@ Limit:
 -----
 memory usage not exceed 30 MB
 
-
+2017 S1 COMP9319 HD
+Assignment1 45/45
+Assignment2 100/100
+Assignment3 16/16
