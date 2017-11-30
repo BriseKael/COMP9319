@@ -3,11 +3,11 @@
 Assignment1 RLE
 =====
 
-introduction:
+Introduction:
 -----
 write a sample RLE encoder and decoder.
 
-usage:
+Usage:
 -----
 make file, get rlencode and rldecode.
 ```
@@ -24,7 +24,7 @@ and rldecode is to decode a rle file (rsample1.rle) into a text file (osample1.t
 ```
 you will see a text file (osample1.txt) in the current folder.
 
-limit:
+Limit:
 -----
 memory usage not exceed 2 MB.
 
@@ -32,11 +32,11 @@ memory usage not exceed 2 MB.
 Assignment2 BWT Search
 =====
 
-introduction:
+Introduction:
 -----
 write a program that search a specific pattern in a given BWT format file. The original file is in format '(\[\d+\]\w+)+'.
 
-usage:
+Usage:
 -----
 make file, get bwtsearch  
 then search a pattern in bwt files. you also need to input an index file path.
@@ -55,7 +55,7 @@ so the search result is:
 as we have two 'an' in banana.  
 for the cases that the file is very big (not over 200 MB), we first create an index file to store BWT index, then use the index file to search the pattern.
 
-limit:
+Limit:
 -----
 memory usage not exceed 20 MB
 
@@ -63,5 +63,6 @@ memory usage not exceed 20 MB
 Assignment3 Keyword and Concept Search
 =====
 
-
+Introduction:
+------
 
