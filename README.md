@@ -65,4 +65,25 @@ Assignment3 Keyword and Concept Search
 
 Introduction:
 ------
+write a program that search a specific word through a list of files in a given folder, list the file names that have the word and sort them by frequency.
+
+Usage:
+-----
+make file, get a3search   
+then search folder path (Test_Folder/simple), index folder path (Test_Folder/simple.idx), search word (apple).
+```
+./a3search Test_Folder/simple/ Test_Folder/simple.idx apple
+```
+so the search result is:
+```
+file6.txt
+file3.txt
+file1.txt
+file5.txt
+```
+
+Limit:
+-----
+memory usage not exceed 30 MB
+
 
