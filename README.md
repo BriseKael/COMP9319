@@ -26,7 +26,7 @@ you will see a text file (osample1.txt) in the current folder.
 
 Limit:
 -----
-memory usage not exceed 2 MB.
+memory usage not exceed 12 MB.
 
 
 Assignment2 BWT Search
@@ -57,7 +57,7 @@ for the cases that the file is very big (not over 200 MB), we first create an in
 
 Limit:
 -----
-memory usage not exceed 20 MB
+memory usage not exceed 15 MB
 
 
 Assignment3 Keyword and Concept Search
